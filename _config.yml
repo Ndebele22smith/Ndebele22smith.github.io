@@ -3,13 +3,13 @@
 # ---------------- #
 baseurl:
 #url: https://mazhuang.org
-#url: https://www.zhijielee.com
-url: https://dielizhijie.github.io
+#url: https://www.Ndebele22smith.github.io
+url: https://Ndebele22smith.github.io
 date_format: "ordinal"
-title: Die antwort
-subtitle: "我从来没有长大，但我从来没有停止成长"
-description: "李志杰的个人博客"
-keywords: 李志杰, Zhuang Ma, mzlogin, mazhuang
+title: Who cares?
+subtitle: "大噶好，我叫夏菲阳"
+description: "Ndebele22smith's blog"
+keywords: 夏菲阳, Zhuang Ma, mzlogin, mazhuang
 favicon: /favicon.ico
 timezone: Asia/Beijing
 encoding: "utf-8"
@@ -18,12 +18,12 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: 李志杰
+author: Ndebele22smith
 #organization: zkh360.com
 #organization_url: http://www.zkh360.com
-github_username: Dielizhijie
+github_username: Ndebele22smith
 location: Tianjin, China
-email: one21piece@163.com
+email: 568226004@qq.com
 
 # ---------------- #
 #    Navigation    #
